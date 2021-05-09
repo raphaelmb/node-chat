@@ -23,6 +23,8 @@ Abra duas abas no navegador em:
 ```
 http://localhost:3000
 ```
+A criptografia usada foi Chave de Cifra de Substituição (com chave igual a 5).
+
 Em cada uma das abas, abra o console do developer tools para visualizar os logs.
 
 Preencha o nome do usuário e a mensagem a ser enviada.
